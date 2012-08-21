@@ -12,8 +12,8 @@ Easy integration of mubsub into socketstream
 ss.publish.transport.use(require('ss-mubsub'), {
   host: '127.0.0.1',
   port: 27017,
-  db: 'example'},
-  options: {});
+  db: 'example',
+  options: {}});
 ```
 The parameters above are the defaults. You only need to specify that which you want to change.
 
