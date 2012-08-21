@@ -21,6 +21,10 @@ The parameters above are the defaults. You only need to specify that which you w
 
 Currently doesn't work due to bug in socketstream.  Waiting on my [pull request](https://github.com/socketstream/socketstream/pull/285).
 
+# Credits
+
+This is really just a wrapper to this very [creative](https://github.com/scttnlsn/mubsub) project.
+
 # License
 
 MIT
