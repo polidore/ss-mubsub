@@ -1,0 +1,19 @@
+{
+  "name": "ss-mubsub",
+  "description": "Easy integration of mubsub into socketstream as pub sub transport",
+  "author": "Ben Polidore <polidore@gmail.com>",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polidore/ss-mubsub.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "mubsub": ">= 0.2.0"
+  },
+  "devDependencies": {
+  }
+} 
