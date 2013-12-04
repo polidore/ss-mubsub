@@ -2,7 +2,7 @@
   "name": "ss-mubsub",
   "description": "Easy integration of mubsub into socketstream as pub sub transport",
   "author": "Ben Polidore <polidore@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "mubsub": ">= 0.2.0"
+    "mubsub": ">= 0.2.1"
   },
   "devDependencies": {
   }
